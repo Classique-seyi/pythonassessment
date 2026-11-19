@@ -11,3 +11,6 @@ else:
         right -= 1
     else:
         print(f"{word} is a palindrome")
+
+
+# num_list = list(int(input()))
